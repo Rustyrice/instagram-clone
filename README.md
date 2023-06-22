@@ -1,3 +1,5 @@
+## Building Instagram from Scratch Using React
+
 I followed a tutorial on creating an Instagram clone for this project. The application was developed using React, Firebase, and Tailwind CSS. I successfully implemented various pages, including login, sign up, dashboard, and the user profile page. These pages serve different purposes, with some accessible to the public and others requiring authentication through auth listeners. To manage data, I utilized Firebase Firestore and created a custom hook to retrieve the necessary information.
 
 While working on this project, I had the opportunity to explore Tailwind CSS, and I thoroughly enjoyed its benefits. Previously, I relied on styled components, but I have now transitioned all my projects to Tailwind CSS due to its user-friendly nature. However, I have decided that this will be my final project utilizing Firebase. I found it to be overly complex for my needs, particularly in terms of testing. Jest lacks a comprehensive mocking library for Firebase, resulting in repetitive code within the tests.
